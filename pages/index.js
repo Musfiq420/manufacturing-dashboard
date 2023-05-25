@@ -7,8 +7,8 @@ import { useState } from 'react';
 
 
 export default function Home() {
-  const [username, setUsername] = useState("");
-  const [password, setPassword] = useState("");
+  const [username, setUsername] = useState("admin");
+  const [password, setPassword] = useState("admin");
   const router = useRouter();
 
   const login = (e) => {
