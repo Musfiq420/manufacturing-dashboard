@@ -1,0 +1,1316 @@
+[
+  {
+    "id": 100105,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100020,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100531,
+    "manufacturer": "Brothers",
+    "name": "Flat Lock",
+    "no": 100021,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100448,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100022,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100378,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100023,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100789,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100024,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100229,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100025,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100850,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100026,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100359,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100027,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100123,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100028,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100228,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100029,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100561,
+    "manufacturer": "Brothers",
+    "name": "Double Needle",
+    "no": 100030,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100312,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100031,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100616,
+    "manufacturer": "Singer",
+    "name": "Flat Lock",
+    "no": 100032,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100510,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100033,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100362,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100034,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100410,
+    "manufacturer": "Singer",
+    "name": "Overlock",
+    "no": 100035,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100492,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100036,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100338,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100037,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100418,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100038,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100535,
+    "manufacturer": "Brothers",
+    "name": "Double Needle",
+    "no": 100039,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100811,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100040,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100136,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100041,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100429,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100042,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100702,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100043,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100623,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100044,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100692,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100045,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100566,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100046,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100587,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100047,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100376,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100048,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100070,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100049,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100157,
+    "manufacturer": "Singer",
+    "name": "Overlock",
+    "no": 100050,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100637,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100051,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100359,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100052,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100094,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100053,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100604,
+    "manufacturer": "Brothers",
+    "name": "Double Needle",
+    "no": 100054,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100814,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100055,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100802,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100056,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100561,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100057,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100177,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100058,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100648,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100059,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100085,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100060,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100285,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100061,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100522,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100062,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100658,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100063,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100383,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100064,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100924,
+    "manufacturer": "Singer",
+    "name": "Double Needle",
+    "no": 100065,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100373,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100066,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100884,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100067,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100453,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100068,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100557,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100069,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100188,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100070,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100909,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100071,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100520,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100072,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100365,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100073,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100487,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100074,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100537,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100075,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100797,
+    "manufacturer": "Singer",
+    "name": "Double Needle",
+    "no": 100076,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100382,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100077,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100610,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100078,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100177,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100079,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100324,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100080,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100539,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100081,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100751,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100082,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100311,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100083,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100791,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100084,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100692,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100085,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100464,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100086,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100583,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100087,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100165,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100088,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100257,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100089,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100708,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100090,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100742,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100091,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100344,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100092,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100337,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100093,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100346,
+    "manufacturer": "Singer",
+    "name": "Double Needle",
+    "no": 100094,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100818,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100095,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100699,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100096,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100768,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100097,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100471,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100098,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100729,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100099,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100451,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100100,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100661,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100101,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100690,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100102,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100312,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100103,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100687,
+    "manufacturer": "Singer",
+    "name": "Double Needle",
+    "no": 100104,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100730,
+    "manufacturer": "Juki",
+    "name": "Single Needle",
+    "no": 100105,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100693,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100106,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100218,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100107,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100344,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100108,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100186,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100109,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100919,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100110,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100381,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100111,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100162,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100112,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100458,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100113,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100782,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100114,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100890,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100115,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100346,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100116,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100510,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100117,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100792,
+    "manufacturer": "Janome",
+    "name": "Flat Lock",
+    "no": 100118,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100526,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100119,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100359,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100120,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100702,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100121,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100240,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100122,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100405,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100123,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100889,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100124,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100825,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100125,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100350,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100126,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100697,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100127,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100262,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100128,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100490,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100129,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100351,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100130,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100751,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100131,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100673,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100132,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100325,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100133,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100453,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100134,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100360,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100135,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100438,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100136,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100534,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100137,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100784,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100138,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100878,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100139,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100816,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100140,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100836,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100141,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100734,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100142,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100480,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100143,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100575,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100144,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100942,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100145,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100555,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100146,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100398,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100147,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100301,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100148,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100841,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100149,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100553,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100150,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100327,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100151,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100647,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100152,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100393,
+    "manufacturer": "Brothers",
+    "name": "Overlock",
+    "no": 100153,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100199,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100154,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100422,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100155,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100904,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100156,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100867,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100157,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100369,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100158,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100491,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100159,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100928,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100160,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100589,
+    "manufacturer": "Juki",
+    "name": "Double Needle",
+    "no": 100161,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100422,
+    "manufacturer": "Brothers",
+    "name": "Single Needle",
+    "no": 100162,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "manual"
+  },
+  {
+    "id": 100745,
+    "manufacturer": "Juki",
+    "name": "Overlock",
+    "no": 100163,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100643,
+    "manufacturer": "Singer",
+    "name": "Single Needle",
+    "no": 100164,
+    "ownership": "owned",
+    "status": "ok",
+    "type": "auto"
+  },
+  {
+    "id": 100493,
+    "manufacturer": "Juki",
+    "name": "Flat Lock",
+    "no": 100165,
+    "ownership": "hired",
+    "status": "ok",
+    "type": "manual"
+  }
+]
