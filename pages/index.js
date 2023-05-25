@@ -1,5 +1,6 @@
 
 import { Button, Input } from '@/components/ui-components/atoms/input';
+import { Sub } from '@/components/ui-components/atoms/text';
 import Image from 'next/image'
 import { useRouter } from 'next/router';
 import { useState } from 'react';
@@ -34,6 +35,8 @@ export default function Home() {
            
             <br/>
             <Button  type="submit">Login</Button>
+            <br/>
+            <Sub>use anything as username and password</Sub>
         </form>
         
     </div>
