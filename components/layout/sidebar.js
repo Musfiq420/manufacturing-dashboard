@@ -197,7 +197,7 @@ const Sidebar = () => {
       <SidebarContainer isOpen={isOpen} isMenuOpen={isMenuOpen}>
         <SidebarHeaderContainer>
         <img src="/fastracker-icon-2.png" height={40} width={40}/>
-          <Heading>Manufacturing Automation</Heading>
+          <Heading>Manufacturing Dashboard</Heading>
         </SidebarHeaderContainer>
         <Container>
           <Row>
