@@ -30,7 +30,7 @@ const SidebarHeaderContainer = styled.div`
 const Heading = styled.div`
   font-size: 24px;
   font-weight: bold;
-  color: #0c9c00;
+  color: #38B000;
   padding: 10px;
 `;
 
@@ -197,7 +197,7 @@ const Sidebar = () => {
       <SidebarContainer isOpen={isOpen} isMenuOpen={isMenuOpen}>
         <SidebarHeaderContainer>
         <img src="/fastracker-icon-2.png" height={40} width={40}/>
-          <Heading>Fastracker</Heading>
+          <Heading>Manufacturing Automation</Heading>
         </SidebarHeaderContainer>
         <Container>
           <Row>
