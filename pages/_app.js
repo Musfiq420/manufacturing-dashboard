@@ -23,7 +23,7 @@ export default function App({ Component, ...rest }) {
   <Provider store={store}>
     <ThemeProvider theme={theme}>
     <Head>
-      <title>Fastracker</title>
+      <title>Manufacturing Dashboard</title>
       <link rel="icon" href="/fastracker-icon-2.png" />
     </Head>
     
