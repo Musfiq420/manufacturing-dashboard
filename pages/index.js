@@ -26,7 +26,7 @@ export default function Home() {
           <Image  src="/fastracker-icon-2.png" height={120} width={120}/>
         </div>
           
-          <h1 style={{color: '#00C853', fontSize: 40}}>Fastracker</h1>
+          <h1 style={{color: '#38B000', fontSize: 40}}>Manufacturing Dashboard</h1>
           <br/>
       <form style={{display:"flex", justifyContent:"center", flexDirection:"column"}} onSubmit={login}>
             <Input style={{width:"100%"}} placeholder='email address' type="text" value={username} onChange={(e) => setUsername(e.target.value)} />
